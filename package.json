@@ -5,6 +5,7 @@
     "author": "Lars Thorup <lars@zealake.com>",
     "engine": "node 1.1.x",
     "devDependencies": {
+         "phantomjs": "~1.9.7-15",
                "grunt-cli": "0.1.6",
         "grunt": "0.4.0",
       "grunt-contrib-qunit": "~0.1.1",
